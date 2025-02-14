@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce-API", "E-commerce-API\E-commerce-API.csproj", "{F5F33BA8-4D4C-4BE5-A5A4-A50E933BC7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce-core", "E-commerce-core\E-commerce-core.csproj", "{4B2371D2-5A0F-4A29-82AE-6F4832E440FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce-Infrastructure", "E-commerce-Infrastructure\E-commerce-Infrastructure.csproj", "{D32CB5B5-EB19-47ED-B1FF-6360DFDDC51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F33BA8-4D4C-4BE5-A5A4-A50E933BC7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F33BA8-4D4C-4BE5-A5A4-A50E933BC7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F33BA8-4D4C-4BE5-A5A4-A50E933BC7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F33BA8-4D4C-4BE5-A5A4-A50E933BC7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2371D2-5A0F-4A29-82AE-6F4832E440FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2371D2-5A0F-4A29-82AE-6F4832E440FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2371D2-5A0F-4A29-82AE-6F4832E440FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2371D2-5A0F-4A29-82AE-6F4832E440FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32CB5B5-EB19-47ED-B1FF-6360DFDDC51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32CB5B5-EB19-47ED-B1FF-6360DFDDC51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32CB5B5-EB19-47ED-B1FF-6360DFDDC51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32CB5B5-EB19-47ED-B1FF-6360DFDDC51F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

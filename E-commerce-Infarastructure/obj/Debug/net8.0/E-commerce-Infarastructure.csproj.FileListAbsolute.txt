@@ -1,0 +1,12 @@
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\bin\Debug\net8.0\E-commerce-Infarastructure.deps.json
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\bin\Debug\net8.0\E-commerce-Infarastructure.dll
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\bin\Debug\net8.0\E-commerce-Infarastructure.pdb
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\E-commerce-Infarastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\E-commerce-Infarastructure.AssemblyInfoInputs.cache
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\E-commerce-Infarastructure.AssemblyInfo.cs
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\E-commerce-Infarastructure.csproj.CoreCompileInputs.cache
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\E-commerce-Infarastructure.sourcelink.json
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\E-commerce-Infarastructure.dll
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\refint\E-commerce-Infarastructure.dll
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\E-commerce-Infarastructure.pdb
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-Infarastructure\obj\Debug\net8.0\ref\E-commerce-Infarastructure.dll

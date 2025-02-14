@@ -1,0 +1,13 @@
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\bin\Debug\net8.0\E-commerce-core.deps.json
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\bin\Debug\net8.0\E-commerce-core.dll
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\bin\Debug\net8.0\E-commerce-core.pdb
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\E-commerce-core.csproj.AssemblyReference.cache
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\E-commerce-core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\E-commerce-core.AssemblyInfoInputs.cache
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\E-commerce-core.AssemblyInfo.cs
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\E-commerce-core.csproj.CoreCompileInputs.cache
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\E-commerce-core.sourcelink.json
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\E-commerce-core.dll
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\refint\E-commerce-core.dll
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\E-commerce-core.pdb
+C:\Users\Saif\Desktop\full stack\back end\API\E-commerce-API\E-commerce-core\obj\Debug\net8.0\ref\E-commerce-core.dll
